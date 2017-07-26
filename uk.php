@@ -1,4 +1,8 @@
 <?php
+/*
+Maryan Petryshyn
+maryan.petryshyn@outlook.com
+*/
 
 global $_LANG;
 $_LANG = array();
